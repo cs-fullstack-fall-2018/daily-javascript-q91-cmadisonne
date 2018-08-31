@@ -45,5 +45,5 @@ function printDate() {
 }
 printDate();
 
-I choose Option 3.
 ```
+I choose Option 3.
