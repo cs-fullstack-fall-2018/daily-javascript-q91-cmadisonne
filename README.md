@@ -44,4 +44,6 @@ function printDate() {
       }
 }
 printDate();
+
+I choose Option 3.
 ```
